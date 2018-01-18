@@ -1,26 +1,26 @@
-/*1111l111lllllll1ll1lllll1llll11111lllll111lllll11111lllllll11111l11l*/
-/*1111l111lllllll1ll1lllll1llll11111lllll111lllll11111lllllll11111l11l*/
-/*1111l111lllllll1ll1lllll1llll11111lllll111lllll11111lllllll11111l11l*/
-/*1111l111lllllll1ll1lllll1llll11111lllll111lllll11111lllllll11111l11l*/
-/*1111l111lllllll1ll1lllll1llll11111lllll111lllll11111lllllll11111l11l*/
-/*1111l111lllllll1ll1lll1lll1ll1lllll11lllll111lllll11111lllllll11111l11l*/
-/*1111l111lllllll1ll1lllll1llll11111lllll111lllll11111lllllll11111l11l*/
-/*1111l111lllllll1ll1lllll1llll11111lllll111lllll11111lllllll11111l11l*/
-/*1111l111lllllll1ll1lllll1llll11111lllll111lllll11111lllllll11111l11l*/
-/*1111l111lllllll1ll1lllll1llll11111lllll111lllll11111lllllll11111l11l*/
-/*1111l111lllllll1ll1lllll1llllll111lllll11111lllllll11111l11l*/
-/*1111l111lllllll1ll1lllll1llll11111lllll11111lllllll11111l11l*/
-/*1111l111lllllll1ll1lllll1ll1111111ll11111lllll111lllll11111lllllll11111l11l*/
-/*1111l111lllllll1ll1lllll1llll11111lllll111lllll11111lllllll11111l11l*/
-/*1111l111lllllll1ll1lllll1llll11111llllllll111lllll11111lllllll11111l11l*/
-/*1111l111lllllll1ll1lllll1llll11111llll11111111l111lllll11111lllllll11111l11l*/
-/*1111l111lllllll1ll1lllll1llll11111lllll111lllll11111lllllll11111l11l*/
-/*1111l111lllllll1ll1lllll1llll11111lllll111lllll11111lllllll11111l11l*/
-/*1111l111lllllll1ll1lllll1llll11111lllll111lllll11111lllllll11111l11l*/
-/*1111l111lllllll1ll1lllll1llll11111lllll111lllll11111lllllll11111l11l*/
-/*1111l111lllllll1ll1lllll1llll11111lllll111lllll11111lllllll11111l11l*/
-/*1111l111lllllll1ll1lllll1llll11111lllll111lllll11111lllllll11111l11l*/
-/*1111l111lllllll1ll1lllll1llll11111lllll111lllll11111lllllll11111l11l*/
-/*1111l111lllllll1ll1lllll1llll11111lllll111lllll11111lllllll11111l11l*/
-/*1111l111lllllll1ll1lllll1llll11111lllll111lllll11111lllllll11111l11l*/
-/*1111l111lllllll1ll1lllll1llll11111lllll111lllll11111lllllll11111l11l*/
+/*Comment appelle t-on une fleur qui prend sa graine à moitier ? Une migraine.*/
+/*A quoi sert Internet Explorer ?  A télécharger Google Chrome.*/
+/*Un geek ne descend pas du métro. Il libère la RAM...*/
+/*J'ai cru que Mozart était mort mais mozzarella*/
+/*Ce matin, j'ai voulu faire une blague sur le Super U, mais elle n'a pas Supermarché !*/
+/*Fruits ? Dans Linux il y a un noyau, dans windows des pépins…*/
+/*Quel animal est sourd ? le crapaud, car il fait coâ, coâ !*/
+/*Quelles sont les lettres les plus vieilles de l'alphabet ? AG.*/
+/*Que disent les plongeur au nouvel an ?  Bonne Apnée.*/
+/*Je commence par un e, je finis aussi par un e, mais je ne contient qu'une seule lettre.Que suis je ? une enveloppe.*/
+/*Boucle*/
+/*Itération*/
+/*Qu'est-ce qui est jaune et qui attend ? Jonathan*/
+/*Changement de variable*/
+/*Miagistes, quel est votre métier ?*/
+/*Azertyuiopqsdfghjklmwxcvbn*/
+/*OpenClassRoom*/
+/*Il a 10 sortes de personnes, les informaticiens (qui savent lire en binaire) et les autres*/
+/*La SNCF est toujours ponctuelle*/
+/*Go ...*/
+/*C'est une requête SQL qui entre dans un bar, et le serveur répond : "Il n'y a plus de tables"*/
+/*Désolé, les blagues IPv4 sont épuisées*/
+/*COndition*/
+/*Fonction récursive*/
+/*Résultat*/
+/*L3C*/
